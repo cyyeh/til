@@ -20,3 +20,8 @@
         - `git checkout`
         - `git reset`
         - `git revert`
+- 2020.8.14
+    - [How to Install Postgres on Docker](https://www.enterprisedb.com/postgres-tutorials/how-install-postgres-docker)
+    - [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
+    - [GNU / Linux 各種壓縮與解壓縮指令](http://note.drx.tw/2008/04/command.html?m=1)
+    - [DNS setting: 設定 /etc/resolv.conf 檔案](http://dns-learning.twnic.net.tw/bind/intro4.html)

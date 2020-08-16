@@ -25,3 +25,6 @@
     - [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
     - [GNU / Linux 各種壓縮與解壓縮指令](http://note.drx.tw/2008/04/command.html?m=1)
     - [DNS setting: 設定 /etc/resolv.conf 檔案](http://dns-learning.twnic.net.tw/bind/intro4.html)
+- 2020.8.15
+    - [vm network setting](https://blog.gtwang.org/virtualization/virtualbox-network-connection-between-host-and-guest-tutorial/)
+    - [Linux CentOS Network unreachable 處理解決方式](https://dev.twsiyuan.com/2018/02/linux-network-unreachable.html)
